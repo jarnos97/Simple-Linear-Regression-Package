@@ -26,7 +26,6 @@ setuptools.setup(
         'patsy>= 0.5.1',
         'Pillow>= 8.0.1',
         'pyparsing>= 2.4.7',
-        'python - dateutil>= 2.8.1',
         'pytz>= 2020.4',
         'scipy>= 1.5.4',
         'seaborn>=0.11.0',
